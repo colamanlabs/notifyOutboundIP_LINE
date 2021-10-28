@@ -37,8 +37,12 @@ Python 연습을 위해, Python 으로 구현했다.
 </code></pre>
 
 <br/><br/>
+## 4. 실행결과
+<img src="https://github.com/colamanlabs/notifyOutboundIP_LINE/blob/main/res/readme/Screenshot_20211028-220900_LINE_blur.png?raw=true" />
+
+<br/><br/>
 ## 후속계획
 1. 발송 모듈을 표준화하여, 다른 APP 에서도 범용적으로 가져다 쓸 수 있도록 개선하자.
 
 <br/><br/>
-## -- 끝 --
+#### -- 끝 --
